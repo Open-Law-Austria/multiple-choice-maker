@@ -14,4 +14,4 @@ Copyright (c) 2020 Open Law Austria and all Contributors
 
 See [Contributors.md](./Contributors.md) for a list of contributors.
 
-Alle Inhalte stehen unter der [MIT Lizenz](./LICENSE) öffentlich zur Verwendung und Anpassung Verfügung. 
+Alle Inhalte stehen unter der [MIT Lizenz](./LICENSES/MIT.txt) öffentlich zur Verwendung und Anpassung Verfügung. 

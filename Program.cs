@@ -1,4 +1,9 @@
-﻿using System;
+/*
+ * SPDX-FileCopyrightText: 2020 Daniel Eder
+ *
+ * SPDX-License-Identifier: MIT
+ */
+using System;
 
 namespace MultipleChoiceMaker
 {
