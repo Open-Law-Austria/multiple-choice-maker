@@ -66,13 +66,13 @@ namespace MultipleChoiceMaker
                     Shuffle(choices);
 
                     var questionBuilder = new StringBuilder();
-                    questionBuilder.AppendLine($"<p><b>{inputQuestion}:</b></p>");
-                    questionBuilder.AppendLine("<ul>");
+                    questionBuilder.Append($"<p><b>{inputQuestion}:</b></p>");
+                    questionBuilder.Append("<ul>");
                     foreach(var choice in choices)
                     {
-                        questionBuilder.AppendLine($"<li>{choice}</li>");
+                        questionBuilder.Append($"<li>{choice}</li>");
                     }
-                    questionBuilder.AppendLine("</ul>");
+                    questionBuilder.Append("</ul>");
                     outputQuestions.Cell(row, 1).SetValue(questionBuilder.ToString());
                 }
 
