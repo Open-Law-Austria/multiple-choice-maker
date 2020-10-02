@@ -60,7 +60,7 @@ representative at an online or offline event.
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be 
-reported to the community leaders responsible for enforcement by creating an [Issue](https://github.com/Open-Law-Austria/jku-oeffentliches-recht-i/issues/new?assignees=daniel-eder&labels=code+of+conduct&template=code-of-conduct-versto-.md&title=%5BCode+of+Conduct%5D+).
+reported to the community leaders responsible for enforcement by creating an [Issue](/../../issues/new?assignees=daniel-eder&labels=code+of+conduct&template=code-of-conduct-versto-.md&title=%5BCode+of+Conduct%5D+).
 All complaints will be reviewed and investigated promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the
